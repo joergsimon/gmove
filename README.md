@@ -9,7 +9,7 @@ gmove is basically a tool used to switch between git tags while stashing the cha
 
 The original indention of the author is for code demos, but feel free do use it for whatever you want.
 
-For how to use it for code demos, see the original blog post here: blog.jsimon.at
+For how to use it for code demos, see the original blog post here: http://blog.jsimon.at/2012/11/git-for-code-demos-introducing-gmove/
 
 technology
 ----------
